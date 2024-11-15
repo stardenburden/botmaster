@@ -1,0 +1,9 @@
+{
+   "privatekey" : "0x...",
+   "rpc" : "https://base.llamarpc.com",
+   "wss-rpc" : "wss://base-rpc.publicnode.com",
+   "tx-url" : "https://basescan.org/tx/0x7fadf79723b4db120acf1b7easlacf4007ecfd102eb336515d439542a6a625431",
+   "repeat-times" : 10,
+   "gas-in-gwei" : 0.065
+}
+
